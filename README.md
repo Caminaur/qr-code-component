@@ -1,12 +1,62 @@
-# React + Vite
+# Frontend Mentor - QR Code Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [QR Code Component challenge Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [My Solution](#my-solution)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### The challenge
+
+Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+
+### My Solution
+
+#### Desktop
+
+<img src="./src/assets/Desktop.png" width="700px" style="border-radius:8px;"/>
+
+#### Mobile
+
+<img src="./src/assets/Mobile.png" width="325px" style="border-radius:8px;"/>
+
+### Links
+
+- Live Site URL: [Live Site](https://caminaur-qr-challenge.netlify.app/)
+- Solution Repository: [Github](https://github.com/Caminaur/qr-code-component)
+
+## My process
+
+### Built with
+
+- React JS
+- Tailwind
+
+### Useful resources
+
+- [React](https://react.dev/reference/react)
+- [Tailwind](https://tailwindcss.com/docs/)
+
+## Author
+
+- [Website](https://julian-caminaur.tech/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Caminaur)
+- [CSS Battle](https://cssbattle.dev/player/caminaur)
+- [Exercism](https://exercism.org/profiles/Caminaur)

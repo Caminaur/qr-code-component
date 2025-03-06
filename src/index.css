@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* Primary Colors */
+  --color-neutral-white: hsl(0, 0%, 100%);
+  --color-neutral-slate-300: hsl(212, 45%, 89%);
+  --color-neutral-slate-500: hsl(216, 15%, 48%);
+  --color-neutral-slate-900: hsl(218, 44%, 22%);
+
+  /* Typography */
+  --font-family: "Outfit", sans-serif;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  /* Layout Breakpoints */
+  --layout-mobile: 375px;
+  --layout-desktop: 1440px;
+}
+
+.attribution {
+  @apply text-blue-600 font-bold hover:text-blue-400;
+}
